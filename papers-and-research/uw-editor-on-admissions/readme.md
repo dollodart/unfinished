@@ -1,5 +1,8 @@
 This article was written in the timeframe of 2015-2016, and I write this in
-2024. Less than 2 years after I published this letter a news article on
+2024. I have converted the document to LaTeX, but included the original docx
+file and all of the old data here for completeness.
+
+Less than 2 years after I published this letter a news article on
 expanding the UW CS program to double in size with a 5 million dollar
 philanthropic gift was published by the UW (See UW news release from
 2017/02/16: New UW Computer Science Engineering Building Receives \$5M gift
